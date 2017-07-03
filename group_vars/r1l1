@@ -1,0 +1,8 @@
+name: r1l1
+device: switch
+placement: tor
+rack: 1
+
+interfaces:
+  - "po105":
+    - "attached": "r04sv14.test.mash.lab24.co"

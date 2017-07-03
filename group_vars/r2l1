@@ -1,0 +1,4 @@
+rack=spine
+
+interface:
+  - "po205":"r04sv15.test.mash.lab24.co"

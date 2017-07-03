@@ -1,0 +1,6 @@
+[all:vars]
+ansible_connection = local
+
+[core_switches]
+10.7.2.11
+10.7.2.12
